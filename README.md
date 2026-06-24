@@ -11,7 +11,9 @@ Este GitHub reúne projetos e materiais como:
 - 🧠 Estudos sobre **gestão, processos e CX**
 
 **Tech Skills**
+
 **Office & Manager Frameworks:**
+
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
