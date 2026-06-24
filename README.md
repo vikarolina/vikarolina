@@ -17,3 +17,5 @@ Atualmente aprofundando conhecimentos em:
 - Documentação técnica e funcional  
 
 [![My Skills](https://skillicons.dev/icons?i=py,php,mysql,redhat,ubuntu,anaconda,wordpress,html,css)](https://skillicons.dev)
+
+![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
