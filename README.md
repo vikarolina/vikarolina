@@ -16,4 +16,4 @@ Atualmente aprofundando conhecimentos em:
 - Metodologias Ágeis  
 - Documentação técnica e funcional  
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,redhat,mysql,anaconda,opencv,wordpress,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,mysql,redhat,ubuntu,anaconda,wordpress,html,css)](https://skillicons.dev)
