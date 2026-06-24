@@ -8,11 +8,12 @@ Este GitHub reúne projetos e materiais como:
 - 📁 Projetos acadêmicos e pessoais
 - 🛠️ Ferramentas e scripts de apoio
 - 📋 Documentações de projetos (análise de requisitos, custos, melhorias futuras)
-- 🧠 Estudos sobre **gestão, processos, tecnologia e IA aplicada ao trabalho**
+- 🧠 Estudos sobre **gestão, processos e CX**
 
 Atualmente aprofundando conhecimentos em:
 
 - Gestão de Projetos e Processos  
 - Metodologias Ágeis  
 - Documentação técnica e funcional  
-- Uso prático de **IA Generativa aplicada ao trabalho**
+
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,php,opencv,wordpress,html,css,anaconda)](https://skillicons.dev)
