@@ -2,16 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0E7C86,100:0F1B2D&height=180&section=header&text=Vit%C3%B3ria&fontSize=40&fontColor=fff&fontAlignY=42&desc=Gest%C3%A3o%20de%20Projetos%20%C2%B7%20Processos%20%C2%B7%20CX&descSize=16&descAlignY=62&descColor=fff" width="100%" /> 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7C86,100:0F1B2D&height=180&section=header&text=Vit%C3%B3ria&fontSize=40&fontColor=fff&fontAlignY=35&desc=Gest%C3%A3o%20de%20Projetos%20%C2%B7%20Processos%20%C2%B7%20CX&descSize=16&descAlignY=55&descColor=fff" width="100%" />
-</div>
-
-
 <h1 align="center">👋 Olá, eu sou a Vitória</h1>
  
-<p align="center">
-  <strong>Gestão de Projetos</strong> · Processos · Customer Experience
-</p>
 <p align="center">
   <em>Organização de fluxos, melhoria contínua e práticas ágeis.</em>
 </p>
