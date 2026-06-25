@@ -1,25 +1,23 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0E7C86,100:0F1B2D&height=180&section=header&text=Vit%C3%B3ria&fontSize=40&fontColor=fff&fontAlignY=42&desc=Gest%C3%A3o%20de%20Projetos%20%C2%B7%20Processos%20%C2%B7%20CX&descSize=16&descAlignY=62&descColor=fff" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0E7C86,100:0F1B2D&height=180&section=header&text=Vit%C3%B3ria%20Sousa&fontSize=40&fontColor=fff&fontAlignY=42&desc=Gest%C3%A3o%20de%20Projetos%20%C2%B7%20Processos%20%C2%B7%20CX&descSize=16&descAlignY=62&descColor=fff" width="100%" /> 
 </div>
-
-<h1 align="center">Sou a Vitoria Sousa</h1>
  
 <p align="center">
   <em>Organização de fluxos, melhoria contínua e práticas ágeis.</em>
 </p>
  
-### 🙋‍♀️ Sobre mim
+### Sobre mim
  
-- 🎯 Interesse crescente em **Gestão de Projetos**, organização de fluxos e **melhoria contínua**
-- 🔄 Familiaridade com **Scrum** e práticas ágeis
-- 💬 Foco em **processos** e **Customer Experience (CX)**
+- Interesse crescente em **Gestão de Projetos**, organização de fluxos e **melhoria contínua**
+- Familiaridade com **Scrum** e práticas ágeis
+- Foco em **processos** e **Customer Experience (CX)**
 
-### 📂 O que você encontra neste GitHub
+### O que você encontra neste GitHub
  
-- 🛠️ &nbsp;Ferramentas e scripts de apoio
-- 📋 &nbsp;Documentação de projetos (análise de requisitos, custos e melhorias futuras)
-- 🧠 &nbsp;Estudos sobre gestão, processos e CX
----
+- &nbsp;Ferramentas e scripts de apoio
+- &nbsp;Documentação de projetos (análise de requisitos, custos e melhorias futuras)
+- &nbsp;Estudos sobre gestão, processos e CX
+
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikarolinafsousa/)
