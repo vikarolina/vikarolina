@@ -1,10 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Vit%C3%B3ria&fontSize=36&fontColor=fff&desc=Gest%C3%A3o%20de%20Projetos&descSize=16" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0E7C86,100:2E7D5B&height=200&section=header&text=Vit%C3%B3ria&fontSize=40&fontColor=fff&fontAlignY=30&desc=Gest%C3%A3o%20%C2%B7%20CX&descSize=16&descAlignY=48&descColor=fff" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:F2C811,100:E95420&height=170&section=header&text=Vit%C3%B3ria&fontSize=36&fontColor=fff&desc=Processos%20%C2%B7%20Melhoria%20Cont%C3%ADnua&descSize=15&descColor=fff" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0E7C86&height=160&section=header&text=Vit%C3%B3ria&fontSize=38&fontColor=fff&desc=Gest%C3%A3o%20de%20Projetos%20%7C%20CX&descSize=16&descColor=fff" width="100%" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0E7C86,100:0F1B2D&height=180&section=header&text=Vit%C3%B3ria&fontSize=40&fontColor=fff&fontAlignY=42&desc=Gest%C3%A3o%20de%20Projetos%20%C2%B7%20Processos%20%C2%B7%20CX&descSize=16&descAlignY=62&descColor=fff" width="100%" />
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7C86,100:0F1B2D&height=180&section=header&text=Vit%C3%B3ria&fontSize=40&fontColor=fff&fontAlignY=35&desc=Gest%C3%A3o%20de%20Projetos%20%C2%B7%20Processos%20%C2%B7%20CX&descSize=16&descAlignY=55&descColor=fff" width="100%" />
