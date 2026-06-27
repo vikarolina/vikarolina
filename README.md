@@ -17,7 +17,7 @@
 Atuo na interseção entre **gestão de projetos**, **processos** e **Customer Experience**, com base ágil (Scrum) e mentalidade de melhoria contínua. 
 
 - Organizo fluxos e documento processos para escalar com clareza
-- Apoio decisões com dados, não só intuição
+- Apoio decisões com dados
 - Coloco a experiência do cliente no centro do processo
 
 ### O que você encontra neste GitHub
@@ -42,5 +42,5 @@ Atuo na interseção entre **gestão de projetos**, **processos** e **Customer E
 `Python` · `Pandas` · `NumPy` · `MySQL` · `Deep Learning` · `Apache` · `Docker`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B2D,100:0E7C86&height=140&section=footer&text=Obrigada%20pela%20visita!&fontSize=22&fontColor=fff&fontAlignY=68&descSize=13&descAlignY=88&descColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B2D,100:0E7C86&height=140&section=footer&text=Obrigada%20pela%20visita!!!&fontSize=22&fontColor=fff&fontAlignY=68&descSize=13&descAlignY=88&descColor=fff" width="100%" />
 </div>
