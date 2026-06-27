@@ -41,10 +41,6 @@ Atuo na interseção entre **gestão de projetos**, **processos** e **Customer E
  
 `Python` · `Pandas` · `NumPy` · `MySQL` · `Deep Learning` · `Apache` · `Docker`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikarolinafsousa/">💬 Vamos conversar no LinkedIn</a>
-</p>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B2D,100:0E7C86&height=140&section=footer&text=Obrigada%20pela%20visita!&fontSize=22&fontColor=fff&fontAlignY=68&descSize=13&descAlignY=88&descColor=fff" width="100%" />
 </div>
