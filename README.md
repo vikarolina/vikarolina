@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0E7C86,100:0F1B2D&height=180&section=header&text=Vit%C3%B3ria%20Sousa&fontSize=40&fontColor=fff&fontAlignY=42&desc=Gest%C3%A3o%20de%20Projetos%20%C2%B7%20Processos%20%C2%B7%20CX&descSize=16&descAlignY=62&descColor=fff" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0E7C86,100:0F1B2D&height=180&section=header&text=Vit%C3%B3ria%20Sousa&fontSize=40&fontColor=fff&fontAlignY=42&desc=Processos%20%C2%B7%20CX&descSize=16&descAlignY=62&descColor=fff" width="100%" /> 
 </div>
  
 <p align="center">
-  <em>Organização de fluxos, melhoria contínua e práticas ágeis.</em>
+  <em>Organização de fluxos, melhoria contínua e práticas ágeis em CS e CX.</em>
 </p>
 
  <p align="center">
