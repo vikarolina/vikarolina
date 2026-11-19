@@ -36,9 +36,11 @@ Atuo na interseção entre **gestão de projetos**, **processos** e **Customer E
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Base técnica**
+### Base Técnica
  
-`Python` · `Pandas` · `NumPy` · `MySQL` · `Deep Learning` · `Apache` · `N8N`
+`Python` · `Pandas` · `NumPy` ·  `Deep Learning` · `N8N` · `MySQL`
+
+`BPMN` · `SCRUM` · `Lean` · `6Sigma`
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B2D,100:0E7C86&height=140&section=footer&text=Obrigada%20pela%20visita!!!&fontSize=22&fontColor=fff&fontAlignY=68&descSize=13&descAlignY=88&descColor=fff" width="100%" />
