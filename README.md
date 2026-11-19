@@ -26,7 +26,6 @@ Atuo na interseção entre **gestão de projetos**, **processos** e **Customer E
 - &nbsp;**Documentação de projetos**(análise de requisitos, custos e melhorias)
 - &nbsp;**Estudos** sobre processos, agilidade e CX
 
-*Em breve: repositórios fixados com os principais cases.*
 
 ## Ferramentas: Gestão & Produtividade
 
@@ -39,7 +38,7 @@ Atuo na interseção entre **gestão de projetos**, **processos** e **Customer E
 
 **Base técnica**
  
-`Python` · `Pandas` · `NumPy` · `MySQL` · `Deep Learning` · `Apache` · `Docker`
+`Python` · `Pandas` · `NumPy` · `MySQL` · `Deep Learning` · `Apache` · `N8N`
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B2D,100:0E7C86&height=140&section=footer&text=Obrigada%20pela%20visita!!!&fontSize=22&fontColor=fff&fontAlignY=68&descSize=13&descAlignY=88&descColor=fff" width="100%" />
