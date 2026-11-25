@@ -20,12 +20,6 @@ Atuo na interseção entre **gestão de projetos**, **processos** e **Customer E
 - Apoio decisões com dados
 - Coloco a experiência do cliente no centro do processo
 
-### O que você encontra neste GitHub
- 
-- &nbsp;**Ferramentas e scripts** de apoio à gestão
-- &nbsp;**Documentação de projetos**(análise de requisitos, custos e melhorias)
-- &nbsp;**Estudos** sobre processos, agilidade e CX
-
 
 ## Ferramentas: Gestão & Produtividade
 
